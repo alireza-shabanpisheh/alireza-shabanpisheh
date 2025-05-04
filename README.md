@@ -22,8 +22,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-shabanpisheh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-shabanpisheh&layout=compact)
 
 ---
 
@@ -31,8 +31,3 @@
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 - Email: your.email@example.com
 - Portfolio: [Your Website](https://yourwebsite.com)
-
----
-
-### ⚡ Fun Fact
-"I once [interesting anecdote, e.g., built a bot that automates my coffee orders]!"
