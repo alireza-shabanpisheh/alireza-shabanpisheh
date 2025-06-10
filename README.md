@@ -1,7 +1,14 @@
 # 👋 Hi! Alireza here (but you can call me Shiba)
 
+> ```javascript
+> while(!succeed)
+> {
+>  tryAgain()
+> }
+> ```
+
 ### 👨‍💻 About Me
-**Frontend Developer** passionate about crafting clean, efficient user experiences.
+I'm a web developer with a strong focus on user interfaces and the **front-end** experience. I care deeply about building interfaces that are not only visually clear and responsive but also intuitive and enjoyable to use. My interest in web development goes beyond just the UI — I value writing clean, maintainable code and understanding how things work under the hood. Whether it's translating a design into a polished interface or thinking through the structure of a web app, I’m driven by curiosity, care for detail, and a genuine passion for the craft of development.
 
 ---
 
@@ -22,19 +29,16 @@
 
 ---
 
-### 🚀 Featured Projects
-- **[Project 1](https://github.com/yourusername/project1)** | Brief description.
-- **[Project 2](https://github.com/yourusername/project2)** | Brief description.
-
----
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-shabanpisheh&show_icons=true&theme=radical)
+<br>
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-shabanpisheh&layout=compact)
 
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [Your Website](https://yourwebsite.com)
+🔗 **Website:** [alirezashabanpisheh.ir](https://alirezashabanpisheh.ir)  
+📧 **Email:** [ashabanpisheh@gmail.com](mailto:ashabanpisheh@gmail.com)  
+📱 **Telegram:** [@alireza_shiba](https://t.me/alireza_shiba)   
