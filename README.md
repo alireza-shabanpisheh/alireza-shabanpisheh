@@ -31,10 +31,10 @@ I'm a web developer with a strong focus on user interfaces and the **front-end**
 
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-shabanpisheh&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alireza-shabanpisheh&show_icons=true&theme=radical&cache_seconds=86400)
 <br>
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-shabanpisheh&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-shabanpisheh&layout=compact&cache_seconds=86400)
 
 ---
 
