@@ -26,25 +26,6 @@ I'm a web developer with a strong focus on user interfaces and the **front-end**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
----
-
-
-### 📊 GitHub Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=alireza-shabanpisheh&show_icons=true&theme=radical&cache_seconds=86400"
-  alt="GitHub Stats"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-shabanpisheh&layout=compact&cache_seconds=86400"
-  alt="Top Languages"
-/>
-
-
 ---
 
 ### 📫 Let's Connect
